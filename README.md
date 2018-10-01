@@ -1,0 +1,2 @@
+# raidprotbot
+defend
